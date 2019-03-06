@@ -1,0 +1,7 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\ClasseVetor\ClasseVetor\bin\Debug\ClasseVetor.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\ClasseVetor\ClasseVetor\bin\Debug\ClasseVetor.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\ClasseVetor\ClasseVetor\bin\Debug\ClasseVetor.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\ClasseVetor\ClasseVetor\obj\Debug\ClasseVetor.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\ClasseVetor\ClasseVetor\obj\Debug\ClasseVetor.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\ClasseVetor\ClasseVetor\obj\Debug\ClasseVetor.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\ClasseVetor\ClasseVetor\obj\Debug\ClasseVetor.pdb
